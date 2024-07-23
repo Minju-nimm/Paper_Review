@@ -6,5 +6,4 @@
 
 |   Reading Date   |               Title               |  Keywords  |  Conference  | Publication Date  | Link |
 |:----------------:|:---------------------------------:|:----------:|:------------:|:-----------------:|:-----------------:|
-|   2024.07.22     | THEANINE: Revisiting Memory Management in Long-term Conversations with Timeline-augmented Response Generation |   Memory   |   Preprint   |   2024.06.16      | https://arxiv.org/abs/2406.10996|
-
+|   2024.07.22     | THEANINE: Revisiting Memory Management in Long-term Conversations with Timeline-augmented Response Generation |   Memory   |   Preprint   |   2024.06.16      | [🖱️](https://arxiv.org/abs/2406.10996)|
