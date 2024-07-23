@@ -4,7 +4,7 @@
 현재는 LLM을 활용한 Human-AI Interaction, Persona, Memory 등의 키워드에 관심 있습니다! 🐣
 
 
-|   Reading Date   |               Title               |  Keywords  |  Conference  | Publication Date  |
-|:----------------:|:---------------------------------:|:----------:|:------------:|:-----------------:|
-|   2024.07.22     | THEANINE: Revisiting Memory Management in Long-term Conversations with Timeline-augmented Response Generation |   Memory   |   Preprint   |   2024.06.16      |
+|   Reading Date   |               Title               |  Keywords  |  Conference  | Publication Date  | Link |
+|:----------------:|:---------------------------------:|:----------:|:------------:|:-----------------:|:-----------------:|
+|   2024.07.22     | THEANINE: Revisiting Memory Management in Long-term Conversations with Timeline-augmented Response Generation |   Memory   |   Preprint   |   2024.06.16      | https://arxiv.org/abs/2406.10996|
 
