@@ -19,3 +19,4 @@
 ## Persona
 - [PersonaGym: Evaluating Persona Agents and LLMs](https://arxiv.org/abs/2407.18416)
 - [PERSONA: A Reproducible Testbed for Pluralistic Alignment](https://www.arxiv.org/abs/2407.17387)
+- [Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization](https://arxiv.org/abs/2406.01171)
