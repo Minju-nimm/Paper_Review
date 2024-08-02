@@ -1,7 +1,7 @@
 # 🗃️ Paper_Review
 관심있는 논문을 리뷰하는 공간으로, 연구실 세미나에서 발표한 자료 위주로 업로드합니다.
 
-현재는 LLM을 활용한 Human-AI Interaction, Persona, Memory 등의 키워드에 관심 있습니다! 🐣
+현재는 LLM을 활용한 Human-AI Interaction, Persona, Memory, Evaluation 등의 키워드에 관심 있습니다! 🐣
 
 - Title Hyperlink를 누르면 Review PDF 자료로 연결됩니다.
 - 원 논문은 Conference & Publication Date에 연결된 Hyperlink를 통해 볼 수 있습니다.
@@ -20,3 +20,6 @@
 - [PersonaGym: Evaluating Persona Agents and LLMs](https://arxiv.org/abs/2407.18416)
 - [PERSONA: A Reproducible Testbed for Pluralistic Alignment](https://www.arxiv.org/abs/2407.17387)
 - [Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization](https://arxiv.org/abs/2406.01171)
+
+## Evaluation
+- [HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](https://github.com/RUCAIBox/HaluEval)
