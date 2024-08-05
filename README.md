@@ -10,7 +10,7 @@
 
 |   Date  |               Title  🖱️       |  Keywords  | Memo | Conference & Publication Date  |
 |:----------------:|:---------------------------------:|:----------:|:------------:|:-----------------:|
-| 2024.07.28 | [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models](https://github.com/Minju-nimm/Paper_Review/blob/main/Persona/LLM_Agents_in_Interaction.pdf)|   Persona   |  언어 상호작용이 persona-conditioned LLM agents의 행동에 미치는 영향 | [EACL </br> 2024.02.05](https://arxiv.org/abs/2402.02896)      |
+| 2024.07.28 | [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models](https://github.com/Minju-nimm/Paper_Review/blob/main/Persona/LLM_Agents_in_Interaction.pdf)|   Persona   |  언어 상호작용이 persona-conditioned LLM agents의 행동에 미치는 영향 | [EACL Workshop </br> 2024.02.05](https://arxiv.org/abs/2402.02896)      |
 |  2024.07.22   | [THEANINE: Revisiting Memory Management in Long-term Conversations with Timeline-augmented Response Generation](https://github.com/Minju-nimm/Paper_Review/blob/main/Memory/THEANINE.pdf)|   Memory   | Memeory linking을 통한 Long Conversation에서의 응답 생성 개선  | [Preprint </br> 2024.06.16](https://arxiv.org/abs/2406.10996)      |
 
 
